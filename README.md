@@ -1,5 +1,5 @@
 # BrightSpace
-SUTD 10.009 The Digital World 1D Code
+SUTD 10.009 The Digital World: 1D Project
 
 ## Abstract
 Finding conductive places to study is often a headache for students, especially during the exam period. Our project seeks
